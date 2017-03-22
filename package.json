@@ -1,0 +1,16 @@
+{
+  "name": "json-to-sqlite-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "converter.js",
+  "scripts": {
+    "start": "node converter.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "prompt": "^1.0.0",
+    "sqlite3": "^3.1.8"
+  }
+}
